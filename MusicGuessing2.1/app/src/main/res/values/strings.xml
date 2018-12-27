@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="select_date">选择日期</string>
+    <string name="select_time">选择时间</string>
+    <string name="title_activity_choose">ChooseActivity</string>
+
+    <string name="app_name">猜歌游戏</string>
+    <string name="login_success">登录成功</string>
+    <string name="title">猜歌游戏</string>
+    <string name="Username">用户名</string>
+    <string name="Password">密码</string>
+    <string name="go">登录</string>
+    <string name="repeat_password">重复密码</string>
+    <string name="back">返回</string>
+    <string name="register">注册</string>
+
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="title_activity_begin">BeginActivity</string>
+    <string name="title_activity_login">猜歌游戏</string>
+    <string name="title_activity_regist">RegistActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+</resources>

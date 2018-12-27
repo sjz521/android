@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <rotate
+        android:duration="2400"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:repeatCount="3"
+        android:fromDegrees="0"
+        android:toDegrees="359" />
+
+    <!--
+    duration——旋转时间
+    pivotX，pivotY——旋转基准点
+    repeatCount——动画重复次数
+    fromDegrees，toDegrees——旋转角度
+    -->
+
+</set>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <scale
+        android:duration="500"
+        android:fillAfter="false"
+        android:fromXScale="0.0"
+        android:fromYScale="0.0"
+        android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:toXScale="1.0"
+        android:toYScale="1.0" />
+
+    <!--
+    duration——动画持续时间，毫秒为单位
+    fillAfter——动画结束后，保持结束时的状态
+    fromXScale，fromYScale——其实x,y尺寸比例
+    interpolator——插值器
+    pivotX,pivotY——缩放起点x轴坐标
+    toXScale,toYScale——最终x，y尺寸比例
+    -->
+
+    <!--
+    1.实例化Scale动画
+        Animation scaleAnimation = AnimationUtils.loadAnimation(AnimDemoActivity.this,R.anim.scale);
+    2.执行动画
+        view.startAnimation(scaleAnimation);
+    -->
+
+</set>
